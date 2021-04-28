@@ -1,0 +1,27 @@
+/*
+ * ap.c
+ *
+ *  Created on: Apr 28, 2021
+ *      Author: PC20
+ */
+
+
+#include "ap.h"
+
+
+
+
+
+void apInit(void)
+{
+
+
+}
+
+void apMain(void) //실질적인main함수 실질 main은 최소화 하기 위해 만들었음
+{
+  while(1)
+    {
+        ;
+    }
+}
